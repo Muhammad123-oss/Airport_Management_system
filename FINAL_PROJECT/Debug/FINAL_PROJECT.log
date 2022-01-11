@@ -1,0 +1,20 @@
+﻿Build started 6/10/2020 6:37:12 AM.
+     1>Project "C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\FINAL_PROJECT\FINAL_PROJECT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OPP_PROJECT.cpp
+         OPP_PROJECT.cpp
+     1>c:\users\faiz\documents\visual studio 2012\projects\airport management system\final_project\lugage checker.h(36): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\faiz\documents\visual studio 2012\projects\airport management system\final_project\flight scedule.h(29): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\faiz\documents\visual studio 2012\projects\airport management system\final_project\opp_project.cpp(142): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\faiz\documents\visual studio 2012\projects\airport management system\final_project\opp_project.cpp(145): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\time.h(153) : see declaration of 'asctime'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\Debug\FINAL_PROJECT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\Debug\FINAL_PROJECT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\Debug\FINAL_PROJECT.lib" /MACHINE:X86 Debug\OPP_PROJECT.obj
+         FINAL_PROJECT.vcxproj -> C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\Debug\FINAL_PROJECT.exe
+     1>Done Building Project "C:\Users\FAIZ\Documents\Visual Studio 2012\Projects\Airport Management System\FINAL_PROJECT\FINAL_PROJECT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.02

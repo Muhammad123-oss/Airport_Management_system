@@ -1,0 +1,13 @@
+weapons 
+cuttingtools 
+bludgeons 
+drugs 
+flammableliquid 
+icepicks 
+alpenstocks 
+razors 
+chemicals 
+duplicatecurrency 
+homefood knife
+ladder
+hammer
